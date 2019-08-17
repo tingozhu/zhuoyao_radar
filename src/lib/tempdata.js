@@ -2602,6 +2602,33 @@ module.exports = {
     SmallImgPath: "128_head/226_YuShi_head.png",
     Level: 3
 }, {
+    Id: 2004041,
+    Name: "复读鸡",
+    FiveEle: ["无"],
+    PrefabName: "4041_FuDuJi",
+    ImgName: "4041",
+    BigImgPath: "512_body/4041_FuDuJi_big.png",
+    SmallImgPath: "128_head/4041_FuDuJi_head.png",
+    Level: 1
+}, {
+    Id: 2004042,
+    Name: "鸽了",
+    FiveEle: ["无"],
+    PrefabName: "4042_GeZi",
+    ImgName: "4042",
+    BigImgPath: "512_body/4042_GeZi_big.png",
+    SmallImgPath: "128_head/4042_GeZi_head.png",
+    Level: 1
+}, {
+    Id: 2004043,
+    Name: "真香",
+    FiveEle: ["无"],
+    PrefabName: "4043_ZhenXiang",
+    ImgName: "4043",
+    BigImgPath: "512_body/4043_ZhenXiang_big.png",
+    SmallImgPath: "128_head/4043_ZhenXiang_head.png",
+    Level: 1
+}, {
     Id: 2040005,
     Name: "旱魃",
     FiveEle: ["烈"],
